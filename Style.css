@@ -1,0 +1,54 @@
+#HHS {
+    font-family: Georgia;
+    color: aqua;
+    text-align: center;
+    font-size: 100px;
+}
+.Menu {
+    position: sticky;
+    list-style: none;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    background-color: aquamarine;
+}
+#Main {
+    width: 100%;
+    }
+.line {
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
+.p {
+    text-align: center;
+    font-family:Seoge script;
+}
+.Topic {
+    font-family:Algerian;
+    text-align: center;
+    font-size: 20px;   
+}
+.Head {
+    font-family: Magneto; 
+    text-align: center;
+    font-size: 30px;
+}
+.About {
+    background:linear-gradient(#00eeff 50%,  #0000ff 100%);
+}
+.Links {
+    display: inline;
+    font-size: 25px;
+    word-spacing: 20px;
+   
+}
+.Contacts {
+    background: linear-gradient(#00eeff 50%,  #0000ff 100%);
+    text-align: center;
+}
+#website {
+    color: black;
+}
